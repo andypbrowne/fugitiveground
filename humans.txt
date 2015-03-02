@@ -6,19 +6,19 @@
 	Chef:Amy Sinclair
 	Contact: hello [at] fugitiveground.org
 	Twitter:
-	From:
+	From:City Island, NY
 
 	One eyed illustrator: Sophie Cooke
-	Twitter: @oneeyedman
-	From:Madrid, Spain
+	Twitter: 
+	From:Jerusalem, Israel
 
 	Conductor: Jeff Kasper
-	Twitter:
-	From:
+	Twitter: @jeffreykasper
+	From:LI, NY
 
 	Web designer: Andrew Paul Browne
 	Twitter: @DTAndyB
-	From:
+	From: Brooklyn, NY
 
   Web Developer: Yogesh Ananda
   Contact: yogeshananda@gmail.com
@@ -29,5 +29,5 @@
 
 /* SITE */
   Standards: HTML5, CSS3
-  Components: jQuery, Orbit, Reveal
-  Software: Atom, Git, Sass, illustrator,
+  Components: jQuery, Zurb Foundation, Sugar.js, Suncalc.js, highcharts.js
+  Software: Sublime Text, Git, illustrator,
