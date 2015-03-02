@@ -1,0 +1,33 @@
+/* Fugitive Ground is a place and a time */
+/* fugitiveground.org */
+/* humanstxt.org */
+
+/* TEAM */
+	Chef:Amy Sinclair
+	Contact: hello [at] fugitiveground.org
+	Twitter:
+	From:
+
+	One eyed illustrator: Sophie Cooke
+	Twitter: @oneeyedman
+	From:Madrid, Spain
+
+	Conductor: Jeff Kasper
+	Twitter:
+	From:
+
+	Web designer: Andrew Paul Browne
+	Twitter: @DTAndyB
+	From:
+
+  Web Developer: Yogesh Ananda
+  Contact: yogeshananda@gmail.com
+
+/* NEWSPRINT */
+
+/* THANKS */
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: jQuery, Orbit, Reveal
+  Software: Atom, Git, Sass, illustrator,

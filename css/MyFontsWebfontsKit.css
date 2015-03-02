@@ -1,0 +1,28 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 2815644, 2014-05-21T00:44:03-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Sigmund Freud Typeface PRO by Harald Geisler
+ * URL: http://www.myfonts.com/fonts/harald-geisler/sigmund-freud-typeface/pro/
+ * Copyright: Copyright (c) 2013 by Harald Geisler. All rights reserved. --- The production of this font was made possible through the amazing support of over 1400 backers on Kickstarter (http://www.kickstarter.com/projects/201030759/sigmund-freud-typeface-a-letter-to-
+ * Licensed pageviews: 20,000
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=2815644
+ * 
+ * © 2014 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/2af69c");
+
+  
+@font-face {font-family: 'SigmundFreudTypefacePRO';src: url('../webfonts/2AF69C_0_0.eot');src: url('../webfonts/2AF69C_0_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/2AF69C_0_0.woff') format('woff'),url('../webfonts/2AF69C_0_0.ttf') format('truetype');}
+ 

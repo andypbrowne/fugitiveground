@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="241.078px" height="105.335px" viewBox="0 0 241.078 105.335" enable-background="new 0 0 241.078 105.335"
+	 xml:space="preserve">
+<g id="logo_x5F_knockout" display="none">
+	<rect x="3.114" y="3.07" display="inline" fill="#ED1F24" width="235" height="99.258"/>
+	<g display="inline">
+		<path fill="#FFFFFF" d="M170.76,72.777c-0.982-11.871-5.891-22.298-14.601-31.008c-9.826-9.826-21.794-14.809-35.57-14.809
+			c-13.809,0-25.776,4.982-35.571,14.81c-8.679,8.708-13.569,19.134-14.548,31.007H28.737v5.66h183.754v-5.66H170.76z M76.35,72.777
+			c0.962-10.257,5.271-19.292,12.817-26.869c8.65-8.684,19.223-13.086,31.422-13.086c12.168,0,22.743,4.403,31.434,13.087
+			c7.57,7.582,11.893,16.616,12.857,26.868H76.35z"/>
+	</g>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 27.7363 61.7773)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Gotham-Bold'" font-size="34.667">-</tspan><tspan x="14.145" y="-1" fill="#FFFFFF" font-family="'Gotham-Bold'" font-size="34.667">1</tspan></text>
+	</g>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 177.4482 61.7773)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Gotham-Bold'" font-size="34.667">+</tspan><tspan x="22.187" y="-1" fill="#FFFFFF" font-family="'Gotham-Bold'" font-size="34.667">1</tspan></text>
+	</g>
+</g>
+<g id="logo_x5F_line">
+	<g>
+		<path fill="#ED1F24" d="M170.744,72.751c-0.982-11.871-5.891-22.299-14.601-31.008c-9.826-9.826-21.794-14.809-35.57-14.809
+			c-13.809,0-25.776,4.982-35.571,14.809c-8.679,8.709-13.569,19.135-14.548,31.008H28.722v5.66h183.754v-5.66H170.744z
+			 M76.334,72.751c0.962-10.258,5.271-19.293,12.817-26.869c8.65-8.684,19.223-13.086,31.422-13.086
+			c12.168,0,22.743,4.402,31.434,13.086c7.57,7.582,11.893,16.617,12.857,26.869H76.334z"/>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 27.7207 61.751)"><tspan x="0" y="0" fill="#ED1F24" font-family="'Gotham-Bold'" font-size="34.667">-</tspan><tspan x="14.145" y="-1" fill="#ED1F24" font-family="'Gotham-Bold'" font-size="34.667">1</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 177.4326 61.751)"><tspan x="0" y="0" fill="#ED1F24" font-family="'Gotham-Bold'" font-size="34.667">+</tspan><tspan x="22.187" y="-1" fill="#ED1F24" font-family="'Gotham-Bold'" font-size="34.667">1</tspan></text>
+	</g>
+	
+		<rect x="3.099" y="3.044" fill="none" stroke="#ED1F24" stroke-width="6.084" stroke-miterlimit="10" width="235" height="99.258"/>
+</g>
+</svg>
