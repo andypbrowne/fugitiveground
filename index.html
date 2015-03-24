@@ -210,7 +210,15 @@
 			
 				<div class="medium-12 column-centered text-center">
 					<p>
-						&copy;2014 Fugitive Ground &#124; <a href="mailto:fugitiveground@gmail.com">Contact</a>
+						&copy;2014-
+                        <script>
+                        var myVar=setInterval (function() {FGTimer()}, 1000);
+                        function FGTimer() {
+                            var currentTime = Date.create().format ('{yyyy}');
+                            document.getElementById("localTime").innerHTML = currentTime;
+                        }
+                        </script>
+                        Fugitive Ground &#124; <a href="mailto:fugitiveground@gmail.com">Contact</a>
 					</p>
 				</div>
 			
