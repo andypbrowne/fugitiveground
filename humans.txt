@@ -24,6 +24,7 @@
   Contact: yogeshananda@gmail.com
 
 /* NEWSPRINT */
+    The archival newsprint piece was created by Jeff Kasper. He is very passionate about newsprint. Contact us if you would like a copy.
 
 /* THANKS */
 
