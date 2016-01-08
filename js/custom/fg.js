@@ -229,7 +229,7 @@ function fgGenerateData(){
       			lng = position.coords.longitude;
       			
       			var tempDate;
-				var range = Date.range('2015','2016');
+				var range = Date.range('2016','2017');
 //                var index =0;
 				range.every('day', function(date){
 
